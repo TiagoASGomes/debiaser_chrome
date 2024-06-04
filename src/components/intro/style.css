@@ -1,0 +1,12 @@
+h1 {
+  color: #87cefa;
+  font-size: 5rem;
+}
+
+.title2 {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  transform: translateX(1.5%);
+}

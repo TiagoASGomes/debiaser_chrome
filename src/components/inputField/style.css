@@ -1,0 +1,17 @@
+.searchBox {
+  padding-top: 30px;
+}
+
+#text {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  height: auto;
+  padding-right: 10%;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

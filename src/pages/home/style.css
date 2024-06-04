@@ -1,0 +1,32 @@
+.container-fluid {
+  display: flex;
+  margin-top: 2rem;
+  align-items: center;
+  flex-direction: column;
+}
+
+.search2 {
+  width: 85vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin: auto;
+}
+
+.form-control {
+  display: block;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  appearance: none;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #dee2e6;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.rounded-pill {
+  border-radius: 50rem !important;
+}

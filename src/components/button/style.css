@@ -1,0 +1,15 @@
+.searchIcon {
+  border: none;
+  background: transparent;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.searchIcon img {
+  width: 20px;
+  height: 20px;
+  right: 20px;
+  position: absolute;
+}
